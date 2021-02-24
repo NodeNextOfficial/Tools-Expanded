@@ -1,0 +1,8 @@
+<Manifest>
+
+  <version>1.0.0.1</version>
+  <showCrossPromotions>true</showCrossPromotions>
+  <manifestUri>https://github.com/NodeNextOfficial/Tools-Expanded/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/NodeNextOfficial/Tools-Expanded/releases/latest</downloadUri>
+
+</Manifest>
